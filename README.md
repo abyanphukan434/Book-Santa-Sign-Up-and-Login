@@ -1,1 +1,2 @@
-# Book-Santa-Sign-Up-and-Login
+# book-santa-stage-1
+The Book Donation app
